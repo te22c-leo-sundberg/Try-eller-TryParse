@@ -1,0 +1,14 @@
+c:\Users\leo.sundberg1\Desktop\Programming\Try eller TryParse\Try eller TryParse\bin\Debug\net7.0\Try eller TryParse.exe
+c:\Users\leo.sundberg1\Desktop\Programming\Try eller TryParse\Try eller TryParse\bin\Debug\net7.0\Try eller TryParse.deps.json
+c:\Users\leo.sundberg1\Desktop\Programming\Try eller TryParse\Try eller TryParse\bin\Debug\net7.0\Try eller TryParse.runtimeconfig.json
+c:\Users\leo.sundberg1\Desktop\Programming\Try eller TryParse\Try eller TryParse\bin\Debug\net7.0\Try eller TryParse.dll
+c:\Users\leo.sundberg1\Desktop\Programming\Try eller TryParse\Try eller TryParse\bin\Debug\net7.0\Try eller TryParse.pdb
+c:\Users\leo.sundberg1\Desktop\Programming\Try eller TryParse\Try eller TryParse\obj\Debug\net7.0\Try eller TryParse.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\leo.sundberg1\Desktop\Programming\Try eller TryParse\Try eller TryParse\obj\Debug\net7.0\Try eller TryParse.AssemblyInfoInputs.cache
+c:\Users\leo.sundberg1\Desktop\Programming\Try eller TryParse\Try eller TryParse\obj\Debug\net7.0\Try eller TryParse.AssemblyInfo.cs
+c:\Users\leo.sundberg1\Desktop\Programming\Try eller TryParse\Try eller TryParse\obj\Debug\net7.0\Try eller TryParse.csproj.CoreCompileInputs.cache
+c:\Users\leo.sundberg1\Desktop\Programming\Try eller TryParse\Try eller TryParse\obj\Debug\net7.0\Try eller TryParse.dll
+c:\Users\leo.sundberg1\Desktop\Programming\Try eller TryParse\Try eller TryParse\obj\Debug\net7.0\refint\Try eller TryParse.dll
+c:\Users\leo.sundberg1\Desktop\Programming\Try eller TryParse\Try eller TryParse\obj\Debug\net7.0\Try eller TryParse.pdb
+c:\Users\leo.sundberg1\Desktop\Programming\Try eller TryParse\Try eller TryParse\obj\Debug\net7.0\Try eller TryParse.genruntimeconfig.cache
+c:\Users\leo.sundberg1\Desktop\Programming\Try eller TryParse\Try eller TryParse\obj\Debug\net7.0\ref\Try eller TryParse.dll
